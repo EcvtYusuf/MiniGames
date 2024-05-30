@@ -9,7 +9,7 @@ Oyun Projesi'ne hoş geldiniz! Bu proje, beş eğlenceli mini oyunu içermektedi
 - **Kullanıcı Doğrulama**: Kullanıcılar kayıt olabilir ve giriş yapabilir.
 - **T-Rex Oyunu**: T-Rex'in engellerin üzerinden atladığı klasik koşu oyunu.
 - **Pin-Pong Oyunu**: Bilgisayara karşı oynanan eğlenceli bir pin-pong oyunu.
-- **Mario Oyunu**: Klasik Mario platform oyunu.
+- **Mario Oyunu**: Mario platform oyunu.
 - **At Yarışı Oyunu**: At yarışı simülasyonu.
 - **Flappy Bird Oyunu**: Engeller arasında uçan kuş oyununu andıran eğlenceli bir oyun.
 - **Liderlik Tablosu**: Tüm kullanıcıların en yüksek skorlarını gerçek zamanlı olarak görüntüler.
@@ -95,7 +95,7 @@ Oyun Projesi'ne hoş geldiniz! Bu proje, beş eğlenceli mini oyunu içermektedi
 
 ![Giriş Ekranı](gameproject/gameproject/Resources/giris.jpg)
 
-*Kullanıcıların kimlik bilgileriyle giriş yapabileceği giriş ekranı.*
+*Kullanıcıların bilgileriyle giriş yapabileceği giriş ekranı.*
 
 ![T-Rex Oyunu](gameproject/gameproject/Resources/trex.jpg)
 
