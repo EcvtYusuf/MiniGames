@@ -1,0 +1,90 @@
+C:\Users\bande\source\repos\gameproject\gameproject\obj\Debug\gameproject.csproj.AssemblyReference.cache
+C:\Users\bande\source\repos\gameproject\gameproject\obj\Debug\gameproject.Form1.resources
+C:\Users\bande\source\repos\gameproject\gameproject\obj\Debug\gameproject.Properties.Resources.resources
+C:\Users\bande\source\repos\gameproject\gameproject\obj\Debug\gameproject.csproj.GenerateResource.cache
+C:\Users\bande\source\repos\gameproject\gameproject\obj\Debug\gameproject.csproj.CoreCompileInputs.cache
+C:\Users\bande\source\repos\gameproject\gameproject\bin\Debug\gameproject.exe.config
+C:\Users\bande\source\repos\gameproject\gameproject\bin\Debug\gameproject.exe
+C:\Users\bande\source\repos\gameproject\gameproject\bin\Debug\gameproject.pdb
+C:\Users\bande\source\repos\gameproject\gameproject\obj\Debug\gameproject.exe
+C:\Users\bande\source\repos\gameproject\gameproject\obj\Debug\gameproject.pdb
+C:\Users\bande\source\repos\gameproject\gameproject\obj\Debug\gameproject.anamenu.resources
+C:\Users\bande\source\repos\gameproject\gameproject\obj\Debug\gameproject.at.resources
+C:\Users\bande\source\repos\gameproject\gameproject\obj\Debug\gameproject.PinPon.resources
+C:\Users\bande\source\repos\gameproject\gameproject\obj\Debug\gameproject.t_rex.resources
+C:\Users\bande\source\repos\gameproject\gameproject\obj\Debug\gameproject.giris.resources
+C:\Users\bande\source\repos\gameproject\gameproject\obj\Debug\gameproject.kayit.resources
+C:\Users\bande\source\repos\gameproject\gameproject\obj\Debug\gameproject.mario.resources
+C:\Users\bande\source\repos\gameproject\gameproject\obj\Debug\gameproject.skortablosu.resources
+C:\Users\TUANA YILDIRIM\Desktop\oyun\gameproject\gameproject\bin\Debug\gameproject.exe.config
+C:\Users\TUANA YILDIRIM\Desktop\oyun\gameproject\gameproject\bin\Debug\gameproject.exe
+C:\Users\TUANA YILDIRIM\Desktop\oyun\gameproject\gameproject\bin\Debug\gameproject.pdb
+C:\Users\TUANA YILDIRIM\Desktop\oyun\gameproject\gameproject\obj\Debug\gameproject.csproj.AssemblyReference.cache
+C:\Users\TUANA YILDIRIM\Desktop\oyun\gameproject\gameproject\obj\Debug\gameproject.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUANA YILDIRIM\Desktop\oyun\gameproject\gameproject\obj\Debug\gameproject.giris.resources
+C:\Users\TUANA YILDIRIM\Desktop\oyun\gameproject\gameproject\obj\Debug\gameproject.kayit.resources
+C:\Users\TUANA YILDIRIM\Desktop\oyun\gameproject\gameproject\obj\Debug\gameproject.mario.resources
+C:\Users\TUANA YILDIRIM\Desktop\oyun\gameproject\gameproject\obj\Debug\gameproject.PinPon.resources
+C:\Users\TUANA YILDIRIM\Desktop\oyun\gameproject\gameproject\obj\Debug\gameproject.Properties.Resources.resources
+C:\Users\TUANA YILDIRIM\Desktop\oyun\gameproject\gameproject\obj\Debug\gameproject.skortablosu.resources
+C:\Users\TUANA YILDIRIM\Desktop\oyun\gameproject\gameproject\obj\Debug\gameproject.t_rex.resources
+C:\Users\TUANA YILDIRIM\Desktop\oyun\gameproject\gameproject\obj\Debug\gameproject.csproj.GenerateResource.cache
+C:\Users\TUANA YILDIRIM\Desktop\oyun\gameproject\gameproject\obj\Debug\gameproject.csproj.CoreCompileInputs.cache
+C:\Users\TUANA YILDIRIM\Desktop\oyun\gameproject\gameproject\obj\Debug\gameproject.exe
+C:\Users\TUANA YILDIRIM\Desktop\oyun\gameproject\gameproject\obj\Debug\gameproject.pdb
+C:\Users\TUANA YILDIRIM\Desktop\oyun\gameproject\gameproject\bin\Debug\gameproject.exe.manifest
+C:\Users\TUANA YILDIRIM\Desktop\oyun\gameproject\gameproject\bin\Debug\gameproject.application
+C:\Users\TUANA YILDIRIM\Desktop\oyun\gameproject\gameproject\obj\Debug\gameproject.TrustInfo.xml
+C:\Users\TUANA YILDIRIM\Desktop\oyun\gameproject\gameproject\obj\Debug\gameproject.exe.manifest
+C:\Users\TUANA YILDIRIM\Desktop\oyun\gameproject\gameproject\obj\Debug\gameproject.application
+C:\Users\TUANA YILDIRIM\Desktop\oyun\gameproject\gameproject\obj\Debug\gameproject.anamenu.resources
+C:\Users\TUANA YILDIRIM\Desktop\oyun\gameproject\gameproject\obj\Debug\gameproject.at.resources
+C:\Users\TUANA YILDIRIM\Desktop\oyun\gameproject\gameproject\obj\Debug\gameproject.Form1.resources
+C:\Users\TUANA YILDIRIM\Desktop\oyun - Kopya\gameproject\gameproject\bin\Debug\gameproject.exe.config
+C:\Users\TUANA YILDIRIM\Desktop\oyun - Kopya\gameproject\gameproject\bin\Debug\gameproject.exe.manifest
+C:\Users\TUANA YILDIRIM\Desktop\oyun - Kopya\gameproject\gameproject\bin\Debug\gameproject.application
+C:\Users\TUANA YILDIRIM\Desktop\oyun - Kopya\gameproject\gameproject\bin\Debug\gameproject.exe
+C:\Users\TUANA YILDIRIM\Desktop\oyun - Kopya\gameproject\gameproject\bin\Debug\gameproject.pdb
+C:\Users\TUANA YILDIRIM\Desktop\oyun - Kopya\gameproject\gameproject\obj\Debug\gameproject.csproj.AssemblyReference.cache
+C:\Users\TUANA YILDIRIM\Desktop\oyun - Kopya\gameproject\gameproject\obj\Debug\gameproject.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUANA YILDIRIM\Desktop\oyun - Kopya\gameproject\gameproject\obj\Debug\gameproject.anamenu.resources
+C:\Users\TUANA YILDIRIM\Desktop\oyun - Kopya\gameproject\gameproject\obj\Debug\gameproject.at.resources
+C:\Users\TUANA YILDIRIM\Desktop\oyun - Kopya\gameproject\gameproject\obj\Debug\gameproject.Form1.resources
+C:\Users\TUANA YILDIRIM\Desktop\oyun - Kopya\gameproject\gameproject\obj\Debug\gameproject.giris.resources
+C:\Users\TUANA YILDIRIM\Desktop\oyun - Kopya\gameproject\gameproject\obj\Debug\gameproject.kayit.resources
+C:\Users\TUANA YILDIRIM\Desktop\oyun - Kopya\gameproject\gameproject\obj\Debug\gameproject.mario.resources
+C:\Users\TUANA YILDIRIM\Desktop\oyun - Kopya\gameproject\gameproject\obj\Debug\gameproject.PinPon.resources
+C:\Users\TUANA YILDIRIM\Desktop\oyun - Kopya\gameproject\gameproject\obj\Debug\gameproject.Properties.Resources.resources
+C:\Users\TUANA YILDIRIM\Desktop\oyun - Kopya\gameproject\gameproject\obj\Debug\gameproject.skortablosu.resources
+C:\Users\TUANA YILDIRIM\Desktop\oyun - Kopya\gameproject\gameproject\obj\Debug\gameproject.t_rex.resources
+C:\Users\TUANA YILDIRIM\Desktop\oyun - Kopya\gameproject\gameproject\obj\Debug\gameproject.csproj.GenerateResource.cache
+C:\Users\TUANA YILDIRIM\Desktop\oyun - Kopya\gameproject\gameproject\obj\Debug\gameproject.csproj.CoreCompileInputs.cache
+C:\Users\TUANA YILDIRIM\Desktop\oyun - Kopya\gameproject\gameproject\obj\Debug\gameproject.TrustInfo.xml
+C:\Users\TUANA YILDIRIM\Desktop\oyun - Kopya\gameproject\gameproject\obj\Debug\gameproject.exe.manifest
+C:\Users\TUANA YILDIRIM\Desktop\oyun - Kopya\gameproject\gameproject\obj\Debug\gameproject.application
+C:\Users\TUANA YILDIRIM\Desktop\oyun - Kopya\gameproject\gameproject\obj\Debug\gameproject.exe
+C:\Users\TUANA YILDIRIM\Desktop\oyun - Kopya\gameproject\gameproject\obj\Debug\gameproject.pdb
+C:\Users\bande\OneDrive\Masaüstü\oyun - Kopya\gameproject\gameproject\bin\Debug\gameproject.exe.config
+C:\Users\bande\OneDrive\Masaüstü\oyun - Kopya\gameproject\gameproject\bin\Debug\gameproject.exe.manifest
+C:\Users\bande\OneDrive\Masaüstü\oyun - Kopya\gameproject\gameproject\bin\Debug\gameproject.application
+C:\Users\bande\OneDrive\Masaüstü\oyun - Kopya\gameproject\gameproject\bin\Debug\gameproject.exe
+C:\Users\bande\OneDrive\Masaüstü\oyun - Kopya\gameproject\gameproject\obj\Debug\gameproject.csproj.AssemblyReference.cache
+C:\Users\bande\OneDrive\Masaüstü\oyun - Kopya\gameproject\gameproject\obj\Debug\gameproject.anamenu.resources
+C:\Users\bande\OneDrive\Masaüstü\oyun - Kopya\gameproject\gameproject\obj\Debug\gameproject.at.resources
+C:\Users\bande\OneDrive\Masaüstü\oyun - Kopya\gameproject\gameproject\obj\Debug\gameproject.Form1.resources
+C:\Users\bande\OneDrive\Masaüstü\oyun - Kopya\gameproject\gameproject\obj\Debug\gameproject.giris.resources
+C:\Users\bande\OneDrive\Masaüstü\oyun - Kopya\gameproject\gameproject\obj\Debug\gameproject.kayit.resources
+C:\Users\bande\OneDrive\Masaüstü\oyun - Kopya\gameproject\gameproject\obj\Debug\gameproject.mario.resources
+C:\Users\bande\OneDrive\Masaüstü\oyun - Kopya\gameproject\gameproject\obj\Debug\gameproject.PinPon.resources
+C:\Users\bande\OneDrive\Masaüstü\oyun - Kopya\gameproject\gameproject\obj\Debug\gameproject.Properties.Resources.resources
+C:\Users\bande\OneDrive\Masaüstü\oyun - Kopya\gameproject\gameproject\obj\Debug\gameproject.skortablosu.resources
+C:\Users\bande\OneDrive\Masaüstü\oyun - Kopya\gameproject\gameproject\obj\Debug\gameproject.t_rex.resources
+C:\Users\bande\OneDrive\Masaüstü\oyun - Kopya\gameproject\gameproject\obj\Debug\gameproject.csproj.GenerateResource.cache
+C:\Users\bande\OneDrive\Masaüstü\oyun - Kopya\gameproject\gameproject\obj\Debug\gameproject.csproj.CoreCompileInputs.cache
+C:\Users\bande\OneDrive\Masaüstü\oyun - Kopya\gameproject\gameproject\obj\Debug\gameproject.TrustInfo.xml
+C:\Users\bande\OneDrive\Masaüstü\oyun - Kopya\gameproject\gameproject\obj\Debug\gameproject.exe.manifest
+C:\Users\bande\OneDrive\Masaüstü\oyun - Kopya\gameproject\gameproject\obj\Debug\gameproject.application
+C:\Users\bande\OneDrive\Masaüstü\oyun - Kopya\gameproject\gameproject\obj\Debug\gameproject.exe
+C:\Users\bande\OneDrive\Masaüstü\oyun - Kopya\gameproject\gameproject\obj\Debug\gameproject.pdb
+C:\Users\bande\OneDrive\Masaüstü\oyun - Kopya\gameproject\gameproject\bin\Debug\gameproject.pdb
+C:\Users\bande\OneDrive\Masaüstü\oyun - Kopya\gameproject\gameproject\obj\Debug\gameproject.basla.resources

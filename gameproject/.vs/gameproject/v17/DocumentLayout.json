@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bande\\OneDrive\\Masa\u00FCst\u00FC\\oyun - Kopya\\gameproject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{680442F4-8F17-42FF-A0DF-4C1C4E8B84B6}|gameproject\\gameproject.csproj|c:\\users\\bande\\onedrive\\masa\u00FCst\u00FC\\oyun - kopya\\gameproject\\gameproject\\t-rex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{680442F4-8F17-42FF-A0DF-4C1C4E8B84B6}|gameproject\\gameproject.csproj|solutionrelative:gameproject\\t-rex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{680442F4-8F17-42FF-A0DF-4C1C4E8B84B6}|gameproject\\gameproject.csproj|C:\\Users\\bande\\OneDrive\\Masa\u00FCst\u00FC\\oyun - Kopya\\gameproject\\gameproject\\t-rex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{680442F4-8F17-42FF-A0DF-4C1C4E8B84B6}|gameproject\\gameproject.csproj|solutionrelative:gameproject\\t-rex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{680442F4-8F17-42FF-A0DF-4C1C4E8B84B6}|gameproject\\gameproject.csproj|c:\\users\\bande\\onedrive\\masa\u00FCst\u00FC\\oyun - kopya\\gameproject\\gameproject\\skortablosu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{680442F4-8F17-42FF-A0DF-4C1C4E8B84B6}|gameproject\\gameproject.csproj|solutionrelative:gameproject\\skortablosu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{680442F4-8F17-42FF-A0DF-4C1C4E8B84B6}|gameproject\\gameproject.csproj|c:\\users\\bande\\onedrive\\masa\u00FCst\u00FC\\oyun - kopya\\gameproject\\gameproject\\skortablosu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{680442F4-8F17-42FF-A0DF-4C1C4E8B84B6}|gameproject\\gameproject.csproj|solutionrelative:gameproject\\skortablosu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{680442F4-8F17-42FF-A0DF-4C1C4E8B84B6}|gameproject\\gameproject.csproj|c:\\users\\bande\\onedrive\\masa\u00FCst\u00FC\\oyun - kopya\\gameproject\\gameproject\\mario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{680442F4-8F17-42FF-A0DF-4C1C4E8B84B6}|gameproject\\gameproject.csproj|solutionrelative:gameproject\\mario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{680442F4-8F17-42FF-A0DF-4C1C4E8B84B6}|gameproject\\gameproject.csproj|C:\\Users\\bande\\OneDrive\\Masa\u00FCst\u00FC\\oyun - Kopya\\gameproject\\gameproject\\pinpon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{680442F4-8F17-42FF-A0DF-4C1C4E8B84B6}|gameproject\\gameproject.csproj|solutionrelative:gameproject\\pinpon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{680442F4-8F17-42FF-A0DF-4C1C4E8B84B6}|gameproject\\gameproject.csproj|C:\\Users\\bande\\OneDrive\\Masa\u00FCst\u00FC\\oyun - Kopya\\gameproject\\gameproject\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{680442F4-8F17-42FF-A0DF-4C1C4E8B84B6}|gameproject\\gameproject.csproj|solutionrelative:gameproject\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{680442F4-8F17-42FF-A0DF-4C1C4E8B84B6}|gameproject\\gameproject.csproj|C:\\Users\\bande\\OneDrive\\Masa\u00FCst\u00FC\\oyun - Kopya\\gameproject\\gameproject\\basla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{680442F4-8F17-42FF-A0DF-4C1C4E8B84B6}|gameproject\\gameproject.csproj|solutionrelative:gameproject\\basla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{680442F4-8F17-42FF-A0DF-4C1C4E8B84B6}|gameproject\\gameproject.csproj|C:\\Users\\bande\\OneDrive\\Masa\u00FCst\u00FC\\oyun - Kopya\\gameproject\\gameproject\\at.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{680442F4-8F17-42FF-A0DF-4C1C4E8B84B6}|gameproject\\gameproject.csproj|solutionrelative:gameproject\\at.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{680442F4-8F17-42FF-A0DF-4C1C4E8B84B6}|gameproject\\gameproject.csproj|C:\\Users\\bande\\OneDrive\\Masa\u00FCst\u00FC\\oyun - Kopya\\gameproject\\gameproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{680442F4-8F17-42FF-A0DF-4C1C4E8B84B6}|gameproject\\gameproject.csproj|solutionrelative:gameproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "t-rex.cs",
+              "DocumentMoniker": "C:\\Users\\bande\\OneDrive\\Masa\u00FCst\u00FC\\oyun - Kopya\\gameproject\\gameproject\\t-rex.cs",
+              "RelativeDocumentMoniker": "gameproject\\t-rex.cs",
+              "ToolTip": "C:\\Users\\bande\\OneDrive\\Masa\u00FCst\u00FC\\oyun - Kopya\\gameproject\\gameproject\\t-rex.cs",
+              "RelativeToolTip": "gameproject\\t-rex.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAcwKQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T15:18:41.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "skortablosu.cs",
+              "DocumentMoniker": "C:\\Users\\bande\\OneDrive\\Masa\u00FCst\u00FC\\oyun - Kopya\\gameproject\\gameproject\\skortablosu.cs",
+              "RelativeDocumentMoniker": "gameproject\\skortablosu.cs",
+              "ToolTip": "C:\\Users\\bande\\OneDrive\\Masa\u00FCst\u00FC\\oyun - Kopya\\gameproject\\gameproject\\skortablosu.cs",
+              "RelativeToolTip": "gameproject\\skortablosu.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowEoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T15:18:23.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "skortablosu.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\bande\\OneDrive\\Masa\u00FCst\u00FC\\oyun - Kopya\\gameproject\\gameproject\\skortablosu.cs",
+              "RelativeDocumentMoniker": "gameproject\\skortablosu.cs",
+              "ToolTip": "C:\\Users\\bande\\OneDrive\\Masa\u00FCst\u00FC\\oyun - Kopya\\gameproject\\gameproject\\skortablosu.cs [Tasar\u0131m]",
+              "RelativeToolTip": "gameproject\\skortablosu.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T15:18:19.504Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "giris.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\bande\\OneDrive\\Masa\u00FCst\u00FC\\oyun - Kopya\\gameproject\\gameproject\\giris.cs",
+              "RelativeDocumentMoniker": "gameproject\\giris.cs",
+              "ToolTip": "C:\\Users\\bande\\OneDrive\\Masa\u00FCst\u00FC\\oyun - Kopya\\gameproject\\gameproject\\giris.cs [Tasar\u0131m]",
+              "RelativeToolTip": "gameproject\\giris.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:49:03.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "t-rex.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\bande\\OneDrive\\Masa\u00FCst\u00FC\\oyun - Kopya\\gameproject\\gameproject\\t-rex.cs",
+              "RelativeDocumentMoniker": "gameproject\\t-rex.cs",
+              "ToolTip": "C:\\Users\\bande\\OneDrive\\Masa\u00FCst\u00FC\\oyun - Kopya\\gameproject\\gameproject\\t-rex.cs [Tasar\u0131m]",
+              "RelativeToolTip": "gameproject\\t-rex.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:48:29.784Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PinPon.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\bande\\OneDrive\\Masa\u00FCst\u00FC\\oyun - Kopya\\gameproject\\gameproject\\PinPon.cs",
+              "RelativeDocumentMoniker": "gameproject\\PinPon.cs",
+              "ToolTip": "C:\\Users\\bande\\OneDrive\\Masa\u00FCst\u00FC\\oyun - Kopya\\gameproject\\gameproject\\PinPon.cs [Tasar\u0131m]",
+              "RelativeToolTip": "gameproject\\PinPon.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:48:23.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "mario.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\bande\\OneDrive\\Masa\u00FCst\u00FC\\oyun - Kopya\\gameproject\\gameproject\\mario.cs",
+              "RelativeDocumentMoniker": "gameproject\\mario.cs",
+              "ToolTip": "C:\\Users\\bande\\OneDrive\\Masa\u00FCst\u00FC\\oyun - Kopya\\gameproject\\gameproject\\mario.cs [Tasar\u0131m]",
+              "RelativeToolTip": "gameproject\\mario.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:48:10.754Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "basla.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\bande\\OneDrive\\Masa\u00FCst\u00FC\\oyun - Kopya\\gameproject\\gameproject\\basla.cs",
+              "RelativeDocumentMoniker": "gameproject\\basla.cs",
+              "ToolTip": "C:\\Users\\bande\\OneDrive\\Masa\u00FCst\u00FC\\oyun - Kopya\\gameproject\\gameproject\\basla.cs [Tasar\u0131m]",
+              "RelativeToolTip": "gameproject\\basla.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:49:06.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "at.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\bande\\OneDrive\\Masa\u00FCst\u00FC\\oyun - Kopya\\gameproject\\gameproject\\at.cs",
+              "RelativeDocumentMoniker": "gameproject\\at.cs",
+              "ToolTip": "C:\\Users\\bande\\OneDrive\\Masa\u00FCst\u00FC\\oyun - Kopya\\gameproject\\gameproject\\at.cs [Tasar\u0131m]",
+              "RelativeToolTip": "gameproject\\at.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:48:03.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bande\\OneDrive\\Masa\u00FCst\u00FC\\oyun - Kopya\\gameproject\\gameproject\\Program.cs",
+              "RelativeDocumentMoniker": "gameproject\\Program.cs",
+              "ToolTip": "C:\\Users\\bande\\OneDrive\\Masa\u00FCst\u00FC\\oyun - Kopya\\gameproject\\gameproject\\Program.cs",
+              "RelativeToolTip": "gameproject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T19:41:49.814Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
