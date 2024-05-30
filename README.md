@@ -95,7 +95,7 @@ Oyun Projesi'ne hoş geldiniz! Bu proje, beş eğlenceli mini oyunu içermektedi
 
 ![Giriş Ekranı](gameproject/gameproject/Resources/giris.jpg)
 
-###Kullanıcıların kimlik bilgileriyle giriş yapabileceği giriş ekranı.*
+*Kullanıcıların kimlik bilgileriyle giriş yapabileceği giriş ekranı.*
 
 ![T-Rex Oyunu](gameproject/gameproject/Resources/trex.jpg)
 
@@ -103,22 +103,22 @@ Oyun Projesi'ne hoş geldiniz! Bu proje, beş eğlenceli mini oyunu içermektedi
 
 ![Pin-Pong Oyunu](gameproject/gameproject/Resources/pinpon.jpg)
 
-###Pin-Pong oyunu oynanırken bir ekran görüntüsü.*
+*Pin-Pong oyunu oynanırken bir ekran görüntüsü.*
 
 ![Mario Oyunu](gameproject/gameproject/Resources/mario.jpg)
-###Mario oyunu oynanırken bir ekran görüntüsü.*
+*Mario oyunu oynanırken bir ekran görüntüsü.*
 
 ![At Yarışı Oyunu](gameproject/gameproject/Resources/at.jpg)
 
-###At Yarışı oyunu oynanırken bir ekran görüntüsü.*
+*At Yarışı oyunu oynanırken bir ekran görüntüsü.*
 
 ![Flappy Bird Oyunu](gameproject/gameproject/Resources/flappy.jpg)
 
-###Flappy Bird oyunu oynanırken bir ekran görüntüsü.*
+*Flappy Bird oyunu oynanırken bir ekran görüntüsü.*
 
 ![Liderlik Tablosu](gameproject/gameproject/Resources/skortablosu.jpg)
 
-###En yüksek skorları gösteren liderlik tablosu.*
+*En yüksek skorları gösteren liderlik tablosu.*
 
 ## Katkıda Bulunma
 
